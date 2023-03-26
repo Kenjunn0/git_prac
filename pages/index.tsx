@@ -9,6 +9,7 @@ export default function Home() {
         <h2>Fetch parc</h2>
         <h2>3way merge prac</h2>
         <h2>feature2-1</h2>
+        <h2>feature2-2</h2>
       </Head>
     </>
   );
